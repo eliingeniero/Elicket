@@ -1,0 +1,13 @@
+TAPERÍA VALVERDE
+Rúa Lepanto 4
+Ourense
+
+Fecha: {{FECHA}}
+Mesa: {{MESA}}
+------------------------
+{{LINEAS}}
+------------------------
+Total: {{TOTAL}} €
+Pago: {{PAGO}}
+
+¡Gracias por su visita!

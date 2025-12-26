@@ -1,0 +1,16 @@
+TAPERÍA VALVERDE
+ÁlvarezGuerra S.C.
+Rúa Lepanto 4
+Ourense
+
+Fecha: {fecha}
+Mesa: {mesa}
+--------------------------------
+{lineas}
+--------------------------------
+TOTAL: {total}
+Pago: {forma_pago}
+
+Gracias por su visita
+
+
